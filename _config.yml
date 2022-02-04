@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
+theme: jekyll-gitbook
 title: Basic
 description: Bookmark this to keep an eye on my project updates!
+
+readme_index:
+  enabled: true
+
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
